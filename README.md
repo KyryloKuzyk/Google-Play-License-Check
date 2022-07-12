@@ -47,3 +47,8 @@ To simulate all available licensing responses on a real Android device, you must
 1. Press the 'GooglePlayLicenseSettings/Remove Permissions' button. 
 2. Press the 'Installer/Uninstall Plugin' button. 
 3. Delete the folder: 'Assets/Plugins/Google Play License Check'.
+
+# Support
+Please submit bug reports [here](https://github.com/KirillKuzyk/Google-Play-License-Check/issues).  
+Submit your questions and feature requests [here](https://github.com/KirillKuzyk/Google-Play-License-Check/discussions).  
+If you want to contact me privately, please drop me an email: kuzykkirill@gmail.com
