@@ -49,6 +49,7 @@ To simulate all available licensing responses on a real Android device, you must
 3. Delete the folder: 'Assets/Plugins/Google Play License Check'.
 
 # Support
-Please submit bug reports [here](https://github.com/KirillKuzyk/Google-Play-License-Check/issues).  
-Submit your questions and feature requests [here](https://github.com/KirillKuzyk/Google-Play-License-Check/discussions).  
+Please submit bug reports to the [Issues](https://github.com/KirillKuzyk/Google-Play-License-Check/issues).  
+Submit your questions and feature requests in [Discussions](https://github.com/KirillKuzyk/Google-Play-License-Check/discussions).  
+Join a discussion on the [Unity Forum](https://forum.unity.com/threads/google-play-license-check-protect-your-game-from-piracy-and-hacking.1311378/).  
 If you want to contact me privately, please drop me an email: kuzykkirill@gmail.com
