@@ -34,7 +34,8 @@ When you upload your app to the Internal testing track, your app will be in an u
 
 To simulate other license responses, you must publish your app to the Closed or Open testing track. Please see the 'Closed/Open testing track' section.  
 ### Closed/Open testing track
-To simulate all available licensing responses on a real Android device, you must upload your app to a **Closed** or **Open** testing track at least once.
+To simulate all available licensing responses on a real Android device, you must upload your app to a **Closed** or **Open** testing track.  
+**Please note** that after uploading your app to the Closed or Open testing track, you will be able to test your app with 'License testing' for approximately a month. When this time is passed, the 'License testing' will stop working in local builds, and you have to upload your app again to Google Play Console.  
 1. Publish your app to the **Closed** or **Open** testing track. Before submitting your app to the Closed or Open testing track, you must complete the store listings and upload necessary graphics resources to Google Play Console.
 2. Open the '**License Testing**' section by going to 'Google Play Console/Setup/License Testing'. 
 3. Add emails of your testers to the '**License testers**' list. 
