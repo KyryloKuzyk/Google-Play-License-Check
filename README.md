@@ -38,7 +38,7 @@ To simulate all available licensing responses on a real Android device, you must
 1. Publish your app to the **Closed** or **Open** testing track. Before submitting your app to the Closed or Open testing track, you must complete the store listings and upload necessary graphics resources to Google Play Console.
 2. Open the '**License Testing**' section by going to 'Google Play Console/Setup/License Testing'. 
 3. Add emails of your testers to the '**License testers**' list. 
-4. Choose the '**License response**'. The licensing server will simulate this response for the list of 'License testers'.  
+4. Choose the '**License response**'. The licensing server will simulate this response for the list of 'License testers'. **Please note** that changing the simulated response may take up to 20 minutes to take effect.  
 <p align="center">
     <img src="./Documentation/license_testing.png" alt="Image"/>
 </p>
@@ -49,7 +49,6 @@ To simulate all available licensing responses on a real Android device, you must
 3. Delete the folder: 'Assets/Plugins/Google Play License Check'.
 
 # Support
-Please submit bug reports to the [Issues](https://github.com/KirillKuzyk/Google-Play-License-Check/issues).  
-Submit your questions and feature requests in [Discussions](https://github.com/KirillKuzyk/Google-Play-License-Check/discussions).  
-Join a discussion on the [Unity Forum](https://forum.unity.com/threads/google-play-license-check-protect-your-game-from-piracy-and-hacking.1311378/).  
+Please submit bug reports [here](https://github.com/KirillKuzyk/Google-Play-License-Check/issues).  
+Submit your questions and feature requests [here](https://github.com/KirillKuzyk/Google-Play-License-Check/discussions).  
 If you want to contact me privately, please drop me an email: kuzykkirill@gmail.com
