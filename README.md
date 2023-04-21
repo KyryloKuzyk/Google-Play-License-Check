@@ -1,7 +1,7 @@
 # Installation and setup
 1. Import the plugin from the [Asset Store](https://assetstore.unity.com/packages/slug/227317).  
 2. Enable this setting in Unity Editor:  
-'Project Settings/Player/Android/Publishing Settings/Build/**Custom Main Manifest**'. This will create a default 'AndroidManifest.xml' at the 'Plugin/Android' folder.  
+'Project Settings/Player/Android/Publishing Settings/Build/**Custom Main Manifest**'. This will create a default 'AndroidManifest.xml' at the 'Plugins/Android' folder.  
 <p align="center">
     <img src="./Documentation/custom_main_manifest.png" alt="Image"/>
 </p>
